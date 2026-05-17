@@ -1,0 +1,6 @@
+Name: Nandan Bhandary
+Email: nandan@example.com
+Phone: +1 555-0100
+GitHub: https://github.com/nandan-example
+
+The most challenging part of the build was designing a clean, dual-token JWT authentication flow for the Monitoring Officer role while keeping the dependency tree small and manageable.
